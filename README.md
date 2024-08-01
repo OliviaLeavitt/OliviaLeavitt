@@ -2,7 +2,7 @@
 - 👀 I’m interested in software development
 - 🌱 I’m currently learning Computer Science
 - 💞️ I’m looking to collaborate on projects
-- 📫 How to reach me livy906@gmail.com
+- 📫 How to reach me ttivael@byu.edu
 - 😄 Pronouns: She/her
 - ⚡ Fun fact: I love ice cream
 
