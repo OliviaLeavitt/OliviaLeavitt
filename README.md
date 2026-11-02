@@ -7,6 +7,7 @@ building useful products.
 
 | Project | What to explore | Stack |
 | --- | --- | --- |
+| [AI Audio Transcriber](https://github.com/OliviaLeavitt/ai-audio-transcriber) | Team audio pipeline; my work includes the cleaner agent, event-driven frontend, exports, and multilingual UI | Python, faster-whisper, Gradio |
 | [Multiplayer Chess](https://github.com/OliviaLeavitt/multiplayer-chess) | Game rules, client/server architecture, WebSocket gameplay, database persistence | Java, MySQL, Maven |
 | [MealMate Recipes](https://github.com/OliviaLeavitt/mealmate-recipes) | Saved recipes, meal calendars, grocery lists, and live chat | React, Express, MongoDB, WebSockets |
 | [Community Resource Finder](https://github.com/OliviaLeavitt/community-resource-finder) | Utah food-assistance search, relational data modeling, and sample-data fallback | TypeScript, React, Supabase |
